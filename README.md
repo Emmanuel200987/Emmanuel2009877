@@ -6,7 +6,7 @@
 
 ---
 
-# 💻 Emmanuel Moreno
+# 💻 Emmanuel piñeros 
 
 ```bash
 > initializing profile...
@@ -15,7 +15,7 @@
 ```
 
 🚀 Passionate about programming, backend development and creative projects.  
-🌎 From Colombia.  
+🌎 From BOGOTA COLOMBIA  
 ⚡ Interested in automation, open source and building real ideas.
 
 ---
